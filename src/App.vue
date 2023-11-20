@@ -1,13 +1,11 @@
 <template>
-  <div></div>
+  <div>
+    <h1>测试commitlint</h1>
+  </div>
 </template>
 
 <script setup lang="ts">
-const a = 'asd'
-const fun = ()=>
-{
-  console.log("无格式")
-}
+
 </script>
 
 <style scoped lang="scss">
